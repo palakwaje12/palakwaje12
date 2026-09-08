@@ -89,6 +89,5 @@ Data analysis and visualization project using Python, Excel and Power BI.
 ---
 
 ⭐ Thanks for visiting my profile!
-## Hi there 👋
 
 
