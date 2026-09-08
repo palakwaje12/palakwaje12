@@ -28,7 +28,7 @@ technologies through hands-on practice.
 
 ### 💻 Languages
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
        width="45" height="45" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
@@ -43,7 +43,7 @@ technologies through hands-on practice.
 
 ### 🌐 Web & Backend
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
        width="45" height="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
@@ -56,7 +56,7 @@ technologies through hands-on practice.
 
 ### 🤖 Data & Machine Learning
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
        width="45" height="45" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
@@ -69,9 +69,9 @@ technologies through hands-on practice.
        width="45" height="45" title="Streamlit"/>
 </p>
 
-### 🧰 Tools
+                                                  ### 🧰 Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        width="45" height="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
