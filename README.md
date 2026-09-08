@@ -24,10 +24,7 @@ technologies through hands-on practice.
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
        width="45" height="45" title="C"/>
@@ -41,8 +38,7 @@ technologies through hands-on practice.
        width="45" height="45" title="SQL"/>
 </p>
 
-### 🌐 Web & Backend
-
+<h3 align="center">🌐 Web & Backend</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
        width="45" height="45" title="HTML5"/>
@@ -54,8 +50,7 @@ technologies through hands-on practice.
        width="45" height="45" title="FastAPI"/>
 </p>
 
-### 🤖 Data & Machine Learning
-
+<h3 align="center">🤖 Data & Machine Learning</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
        width="45" height="45" title="NumPy"/>
@@ -69,8 +64,7 @@ technologies through hands-on practice.
        width="45" height="45" title="Streamlit"/>
 </p>
 
-                                                  ### 🧰 Tools
-
+<h3 align="center">🧰 Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        width="45" height="45" title="Git"/>
