@@ -83,6 +83,7 @@ technologies through hands-on practice.
 - DBMS & SQL
 - Backend Development
 - Machine Learning
+- Git/Github
 
 ---
 
